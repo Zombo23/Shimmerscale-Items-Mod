@@ -1,0 +1,1 @@
+This is my Shimmerscale Items mod I am working on in my spare time. Please no copying my code, not that I think its so fantastic someone wants to, but I am making it public as a sort of project/test and portfolio start.
