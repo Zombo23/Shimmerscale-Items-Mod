@@ -1,0 +1,3 @@
+displayName = Shimmerscale Items
+author = Zombo
+version = 0.1
