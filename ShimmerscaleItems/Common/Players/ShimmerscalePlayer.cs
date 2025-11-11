@@ -1,21 +1,7 @@
-using Microsoft.CodeAnalysis.CSharp.Syntax;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Graphics;
-using ReLogic.Content;
 using System;
-using System.Security.Cryptography.X509Certificates;
 using Terraria;
-using Terraria.DataStructures;
-using Terraria.GameContent.ItemDropRules;
-using Terraria.GameInput;
 using Terraria.ID;
 using Terraria.ModLoader;
-using WillFish.Content.Items;
-using WillFish.Content.Items.Accessories;
-using static Terraria.ID.ContentSamples.CreativeHelper;
-using rail;
-using System.Collections.Generic;
-using Terraria.IO;
 
 namespace ShimmerscaleItems.Common.Players
 {
