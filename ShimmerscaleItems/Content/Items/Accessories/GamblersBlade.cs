@@ -1,5 +1,4 @@
 using Microsoft.Build.Utilities;
-using S.Content.Items;
 using ShimmerscaleItems.Common.Players;
 using ShimmerscaleItems.Content.Items;
 using System;
@@ -11,7 +10,7 @@ using Terraria.ID;
 using Terraria.Localization;
 using Terraria.ModLoader;
 
-namespace WillFish.Content.Items.Accessories
+namespace ShimmerscaleItems.Content.Items.Accessories
 { 
 	public class GamblersBlade : ModItem
 	{
